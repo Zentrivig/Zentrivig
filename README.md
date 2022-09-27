@@ -1,0 +1,3 @@
+- Hi, I’m Zentrivig!
+- I’m interested in artificial intelligence and programming.
+- I’m currently learning JavaScript, p5.js, and HTML/CSS.
